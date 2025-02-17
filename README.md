@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Software Engineering in SJTU
 - 🤔 I'm looking for interested open source project to participate
-- 💬 How to reach me: Wechat 15953384303
+- 💬 How to reach me: 242319193@qq.com | forever1314@sjtu.edu.cn | sjtuzkx0804@gmail.com
 <!--
 **everparadise/everparadise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
